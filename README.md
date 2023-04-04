@@ -1,4 +1,4 @@
-# Description
+## Description
 
 Sample project for the basic course of the Talking About Testing online.
 
@@ -47,7 +47,7 @@ npm run cy:open
 
 You can run the tests simulating a desktop or mobile viewport.
 
-### Desktop
+- ### Desktop
 
 To run the test in headless mode on a desktop viewport, run 
 ```
@@ -62,7 +62,7 @@ Or to open Cypress in interactive mode on a desktop viewport, run
 npm run cy:open
 ```
 
-### Mobile
+- ### Mobile
 
 To run the test in headless mode on a mobile viewport, run 
 ```
@@ -103,9 +103,9 @@ File that allows ignoring folders and other files in versioning.
 It's a Cypress configuration file.
 
 ---
-## *Em Português 🇧🇷:*
+## *Em Português 🇧🇷*
 
-# Descrição
+## Descrição
 
 Exemplo de projeto para o curso básico do Talking About Testing online.
 
@@ -153,7 +153,7 @@ npm run cy:open
 
 Você pode executar os testes simulando uma viewport `desktop` ou `mobile`.
 
-### Desktop
+- ### Desktop
 
 Para executar o teste no modo headless no desktop, execute
 ```
@@ -168,7 +168,7 @@ Ou para abrir o Cypress no modo interativo no desktop, execute
 npm run cy:open
 ```
 
-### Mobile
+- ### Mobile
 
 Para executar o teste no modo headless no mobile, execute
 ```
